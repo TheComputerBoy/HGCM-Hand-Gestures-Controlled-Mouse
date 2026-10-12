@@ -1,5 +1,11 @@
 # VirtualMouse — Hand-Gesture Mouse Control (OpenCV + MediaPipe)
 
+## Demo
+
+<video src="Demo.mp4" width="640" controls muted loop playsinline>
+  <a href="Demo.mp4">Watch Demo.mp4</a>
+</video>
+
 Control your Windows mouse with just your webcam and your hand. Move the cursor,
 click, double-click, drag & drop, scroll, change volume, minimize windows,
 toggle media, and switch virtual desktops — all through hand gestures.
@@ -7,12 +13,6 @@ toggle media, and switch virtual desktops — all through hand gestures.
 Built on the original `VirtualMouse_openCV` starter (move + click) and extended
 with a full gesture set, tap-timing engine, sticky preview window, and Windows
 key/mouse automation via `ctypes`.
-
-## Demo
-
-<video src="Demo.mp4" width="640" controls muted loop playsinline>
-  <a href="Demo.mp4">Watch Demo.mp4</a>
-</video>
 
 ## Features
 
