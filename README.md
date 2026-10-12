@@ -8,6 +8,12 @@ Built on the original `VirtualMouse_openCV` starter (move + click) and extended
 with a full gesture set, tap-timing engine, sticky preview window, and Windows
 key/mouse automation via `ctypes`.
 
+## Demo
+
+<video src="Demo.mp4" width="640" controls muted loop playsinline>
+  <a href="Demo.mp4">Watch Demo.mp4</a>
+</video>
+
 ## Features
 
 - 🖱️ Cursor control with smoothing + right / left / double click
