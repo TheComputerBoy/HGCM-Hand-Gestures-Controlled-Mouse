@@ -127,8 +127,3 @@ All knobs are constants at the top of `virtualmouse.py` and inline thresholds:
 - Needs a clear webcam view; gloves, occlusion, or darkness degrade tracking.
 - Finger classification is heuristic (bent pinching fingers read as "down") —
   gestures are designed around that, but extreme angles can misfire.
-
-## Credits
-
-- Original starter: `mohammadst99/VirtualMouse_openCV` (move + click + demo GIF)
-- Hand tracking: Google MediaPipe Hands via `HandTrackingModule.py`
